@@ -1,0 +1,6 @@
+AppMain.class
+Model\StudentDB.class
+Model\Citizen.class
+Model\ComputerScienceStudent.class
+Model\ChemstryScienceStudent.class
+Model\Student.class

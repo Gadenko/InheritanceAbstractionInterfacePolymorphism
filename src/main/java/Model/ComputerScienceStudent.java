@@ -12,11 +12,11 @@ public class ComputerScienceStudent extends Student{
 
     @Override
     public String getName() {
-        return null;
+        return name;
     }
     @Override
     public int getId() {
-        return 0;
+        return id;
     }
     @Override
     public String toString() {
